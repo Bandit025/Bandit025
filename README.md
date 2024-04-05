@@ -43,12 +43,6 @@ Version 4.0 Generic_50203-02 sum4m j386
 
 <p align="left"> <a href="https://www.facebook.com/Gee.Joe034/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/BanditNanthayothawut" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/BanditNanthayothawut"><img src="https://github-readme-stats.vercel.app/api?username=BanditNanthayothawut&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=84cc16&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="BanditNanthayothawut's GitHub stats" /></a>
-
-<a href="http://www.github.com/BanditNanthayothawut"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BanditNanthayothawut&stroke=84cc16&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=84cc16&currStreakLabel=22c55e&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
 <a href="https://github.com/BanditNanthayothawut" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanditNanthayothawut&langs_count=10&title_color=22c55e&text_color=84cc16&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
